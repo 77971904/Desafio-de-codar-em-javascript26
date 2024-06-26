@@ -1,6 +1,7 @@
 # Vigésimosexto desafio de codar em js.
 
 Código JavaScript implementa um jogo básico de Breakout usando a API Canvas a API Canvas está sendo usada principalmente nas funções que manipulam o contexto de desenho (ctx). 
+
 Jogo é um exemplo clássico de uso do canvas para criar jogos interativos com animação e detecção de colisões. 
 * Movimento e Desenho: Atualiza e desenha a posição da bola, paddle e tijolos em cada intervalo.
 * Interatividade: Usa o evento de movimento do mouse para controlar o paddle.
